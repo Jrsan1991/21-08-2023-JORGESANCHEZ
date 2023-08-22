@@ -1,0 +1,78 @@
+$ history
+    1  pwd 
+    2  pwd
+    3  cd /Users/HP/Desktop/Documents
+    4  clear
+    5  ls
+    6  clear
+    7  ls -l
+    8  ls -lh
+    9  ls -a
+   10  cd..
+   11  cd ..
+   12  clear
+   13  pwd
+   14  cd Desktop
+   15  ls -R
+   16  ls -a
+   17  mkdir Peliculas
+   18  cd Peliculas
+   19  mkdir Infantiles Accion Terror Comedia Romanticas
+   20  cd Infantiles
+   21  Intensamente.txt El juego del miedo.xls Rapido y Furioso.pdf Titanic.jpg
+   22  touch Intenzamente.txt 'El juego del miedo'.xls 'Rapido y furioso'.pdf Titanic.jpg
+   23  cd ..
+   24  cd Accion
+   25  touch Smooth criminal.txt 'Diario de una pasion'.js 'El hexorcista'.xls Cars.jpg
+   26  cd ..
+   27  cd Terror
+   28  'La Dama y el bagabundo'.png 'Yo antes de ti'.xls 'Que paso ayer'.pdf 'We will rock you'.js
+   29  touch 'La Dama y el bagabundo'.png 'Yo antes de ti'.xls 'Que paso ayer'.pdf 'We will rock you'.js
+   30  cd ..
+   31  touch Madagascar.jpg Annabelle.js 'Los vengadores'.js ?La mascara'.js
+   32  cd
+   33  cd ..
+   34  C
+   35  clear
+   36  touch Madagascar.jpg Annabelle.js 'Los Vengadores'.js 'La mascara'.js
+   37  cd Romanticas
+   38  cd ..
+   39  cd Comedia
+   40  mv *
+   41  touch Madagaskar.jpg Orgullo y prejuicio.txt IT.xls 'Mision Imposible'.png
+   42  touch Madagaskar.jpg 'Orgullo y prejuicio'.txt IT.xls 'Mision Imposible'.png
+   43  cd ..
+   44  cd Romantica
+   45  cd Romanticas
+   46  touch Pocahontas.jpg Annabelle.js 'Los vengadores'.js 'La mascara'.js
+   47  ls -R
+   48  cd ..
+   49  ls -R
+   50  touch main.js index.html
+   51  add .
+   52  git add .
+   53  git commit -m "creando mi primer commit"
+   54  git push
+   55  git add -A
+   56  git checkout -b "feature"
+   57  mkdir Hardware Software SeguridadInformatica
+   58  cd Hardware
+   59  touch resumen.txt
+   60  cd..
+   61  cd ..
+   62  cd Software
+   63  touch resumen.txt
+   64  cd ..
+   65  cd SeguridadInformatica
+   66  touch resumen.txt
+   67  cd ..
+   68  git add .
+   69  git commit -m "creando una rama"
+   70  git push origin master
+   71  git push 
+   72  git push --set-upstream origin feature
+   73  git add -A
+   74  mv index.html resumenSoftware.txt
+   75  mv main.js resumenHardware.txt
+   76  touch comandos.txt
+   77  history
